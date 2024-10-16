@@ -1,0 +1,31 @@
+Key Features
+
+Tailwind CSS
+Burger Menu
+Drop Down Menu
+Call-to-action Buttons
+Video Player
+Slider
+Breadcrumbs
+Accordions
+Fun Fact Counter
+Contact Form UI
+On-Hover Effects
+Multipage Design
+Detailed Footer
+Developer-friendly Codebase
+100 Responsive
+Cross-browser Compatible
+
+In the Box
+16 HTML Pages
+HTML & CSS
+All Demo Images
+JavaScript Source Files
+
+
+Library & Plugins
+Tailwind CSS
+FontAwesome
+jQuery
+Google Map
